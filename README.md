@@ -16,6 +16,12 @@ IV. Fetch and Display API Data
 
 This task connects the Streamlit app to an external API to fetch and display live data. In this example, the OpenWeatherMap API is used to get real-time weather details for a user-specified city. The results are parsed from JSON and shown using basic Streamlit widgets and a line chart.
 
+V. Data Pipeline with Database
+
+This task demonstrates how to integrate Streamlit with a local SQLite database. Users can input student information into a form, which is then saved to the database. The app also retrieves and displays all student records dynamically using pandas.
+
+
+
 
 
   
