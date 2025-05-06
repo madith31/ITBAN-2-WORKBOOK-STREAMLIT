@@ -8,6 +8,8 @@ II. DataFrame Viewer
 
 This task demonstrates how to load and display tabular data from a CSV file using Streamlit. It uses st.file_uploader to upload a file, pandas to read the data, and widgets like st.checkbox and st.selectbox to allow users to view raw data and filter it based on a specific column. This provides interactive data exploration capabilities.
 
-  
+III. Slidebar and Layout
+
+This task focuses on organizing Streamlit app content using layout tools such as st.sidebar, st.columns, st.expander, and st.tabs. These components help create a more structured and user-friendly interface, allowing users to filter data and navigate between different views efficiently.
 
   
